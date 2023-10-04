@@ -2,7 +2,9 @@
 
 ## Dataset:
 
-The analysis is based on the "LinkedIn Tech Jobs" dataset, which contains over 500 tech job listings with skill requirement details sourced from LinkedIn's website. The dataset can be found at https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs.
+The analysis is based on the "LinkedIn Tech Jobs" dataset, which contains over 500 tech job listings with skill requirement details sourced from LinkedIn's website. The dataset can be found at 
+
+https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs.
 
 ## Introduction:
 This analysis dives deep into LinkedIn job listings to understand current job market trends. The dataset was chosen due to a personal interest in internships and the job market on LinkedIn. The analysis underwent several refinements, with a focus on understanding the demand for specific skills across various job roles.
@@ -21,4 +23,5 @@ Future iterations might delve deeper into job levels, classes, or specific indus
 
 ## References:
 LinkedIn Tech Jobs Dataset: https://www.kaggle.com/datasets/joebeachcapital/linkedin-jobs
+
 Seaborn Documentation: https://seaborn.pydata.org/ 
